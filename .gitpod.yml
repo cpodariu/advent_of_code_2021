@@ -1,0 +1,2 @@
+tasks:
+  - init: apt-get install nim
