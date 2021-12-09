@@ -1,2 +1,2 @@
 tasks:
-  - init: apt-get install nim
+  - before: sudo apt-get install nim
